@@ -1,5 +1,4 @@
 # company-site-react
-Plum Glass Block
 
 
 https://create-react-app.dev/docs/adding-bootstrap/
